@@ -93,49 +93,35 @@
 
   <tr>
     <td>
-      <a href="https://github.com/s-vidu/test-automation-framework" target="_blank">
+      <a href="https://github.com/s-vidu/selenium-java-practice.git" target="_blank">
         <img src="https://img.shields.io/badge/Test%20Automation%20Framework-Selenium-green?style=for-the-badge&logo=selenium" />
       </a>
     </td>
-    <td>Selenium · Java · TestNG · Maven · Jenkins</td>
+    <td>Selenium · Java · TestNG · Maven </td>
     <td>A comprehensive test automation framework with Page Object Model (POM) design pattern, parallel execution, and detailed reporting for web applications.</td>
   </tr>
 
   <tr>
     <td>
-      <a href="https://github.com/s-vidu/api-testing-suite" target="_blank">
+      <a href="https://github.com/s-vidu/NovaScript_API_Testings.git" target="_blank">
         <img src="https://img.shields.io/badge/API%20Testing%20Suite-Postman-orange?style=for-the-badge&logo=postman" />
       </a>
     </td>
-    <td>Postman · Newman · REST API · CI/CD</td>
-    <td>Automated API testing suite with comprehensive test collections, environment configurations, and integration with CI/CD pipelines for continuous testing.</td>
+    <td>Postman · REST API </td>
+    <td>Automated API testing suite with comprehensive test collections, and environment configurations.</td>
   </tr>
 
   <tr>
     <td>
-      <a href="https://github.com/s-vidu/qa-documentation-project" target="_blank">
-        <img src="https://img.shields.io/badge/QA%20Documentation-Test%20Cases-blue?style=for-the-badge&logo=markdown" />
-      </a>
-    </td>
-    <td>Test Plans · Test Cases · Bug Reports · JIRA</td>
-    <td>
-      Complete QA documentation including test plans, test cases, bug reports, and quality metrics.
-      <br><br>
-      <strong>My Role:</strong> Test strategy development, test case design, defect tracking, quality metrics analysis, and team collaboration.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/s-vidu/web-application-project" target="_blank">
+      <a href="https://github.com/Chandima0406/NovaScript.git" target="_blank">
         <img src="https://img.shields.io/badge/Full%20Stack%20Application-MERN-purple?style=for-the-badge&logo=mongodb" />
       </a>
     </td>
-    <td>React · Node.js · Express · MongoDB · Jest</td>
+    <td>React · Node.js · Express · MongoDB </td>
     <td>
       A full-stack web application with comprehensive unit, integration, and E2E testing. Focuses on quality-driven development with test coverage and code quality metrics.
       <br><br>
-      <strong>My Role:</strong> Software development, test implementation, quality assurance, and deployment automation.
+      <strong>My Role:</strong> Front-end & Back-end development, test implementation,and quality assurance.
     </td>
   </tr>
 
